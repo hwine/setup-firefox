@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.2](https://github.com/hwine/setup-firefox/compare/setup-firefox-v1.5.1...setup-firefox-v1.5.2) (2024-07-09)
+
+
+### Bug Fixes
+
+* **docs:** force release ([c81de38](https://github.com/hwine/setup-firefox/commit/c81de38b4fba63de9e225cdcea92905b73c041bc))
+
 ## [1.5.1](https://github.com/browser-actions/setup-firefox/compare/setup-firefox-v1.5.0...setup-firefox-v1.5.1) (2024-05-04)
 
 
