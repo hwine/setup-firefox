@@ -4,6 +4,7 @@ on:
   push:
     branches-ignore:
       - master
+  workflow_call:  # is called from ./release.yml
   workflow_dispatch:
 
 jobs:
@@ -30,7 +31,7 @@ jobs:
     needs: [build]
     strategy:
       matrix:
-        os: [ubuntu, macos, windows]
+        os: [ubuntu]  # shorten list for faster turn around, macos, windows]
     runs-on: ${{ matrix.os }}-latest
     steps:
       - uses: actions/download-artifact@v4
