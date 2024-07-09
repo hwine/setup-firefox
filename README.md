@@ -38,7 +38,8 @@ jobs:
           ${{ steps.setup-firefox.outputs.firefox-path }} --version
 ```
 ## dubious changes to trigger releases
-- will `doc` type work in commit?
+- will `doc` type work in commit? **NO**
+- will `fix` type work in commit?
 
 ## License
 
