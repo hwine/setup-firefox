@@ -37,6 +37,8 @@ jobs:
           echo Installed firefox versions: ${{ steps.setup-firefox.outputs.firefox-version }}
           ${{ steps.setup-firefox.outputs.firefox-path }} --version
 ```
+## dubious changes to trigger releases
+- will `doc` type work in commit?
 
 ## License
 
