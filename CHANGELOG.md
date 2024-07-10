@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.3](https://github.com/hwine/setup-firefox/compare/setup-firefox-v1.5.2...setup-firefox-v1.5.3) (2024-07-10)
+
+
+### Bug Fixes
+
+* examine release actions, take 2 ([f803fe3](https://github.com/hwine/setup-firefox/commit/f803fe3b466d800df72889908405f85a288dad22))
+* examine release internals - take 3 ([d455db1](https://github.com/hwine/setup-firefox/commit/d455db173214b22bef7029388a2894cdbbba9728))
+
 ## [1.5.2](https://github.com/hwine/setup-firefox/compare/setup-firefox-v1.5.1...setup-firefox-v1.5.2) (2024-07-09)
 
 
