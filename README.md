@@ -39,7 +39,7 @@ jobs:
 ```
 ## dubious changes to trigger releases
 - will `doc` type work in commit? **NO**
-- will `fix` type work in commit?
+- will `fix` type work in commit? **Yes**
 
 ## License
 
